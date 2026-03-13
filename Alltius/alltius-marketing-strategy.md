@@ -115,7 +115,7 @@ Automating loan origination, customer servicing, collections, insurance distribu
 ## Content Strategy
 
 ### Alltius Company Page
-- **Frequency:** 2x per week (Tuesday + Thursday)
+- **Frequency:** 1x per week (Wednesday)
 - **Best time:** 8:00–9:30 AM US Eastern
 - **Tone:** Authoritative, outcome-driven, specific
 - **Avoid:** Generic AI hype, feature dumps, "excited to announce" posts with no substance
@@ -130,7 +130,7 @@ Automating loan origination, customer servicing, collections, insurance distribu
 | Thought leadership | 10% | Where financial services AI is heading |
 
 ### Vibs Personal LinkedIn
-- **Frequency:** 3x per week (Monday + Wednesday + Friday)
+- **Frequency:** 2x per week (Tuesday + Thursday)
 - **Best time:** 7:30–9:00 AM US Eastern
 - **Tone:** Academic credibility meets founder practicality — smart, direct, no fluff
 - **Avoid:** Pure promotional posts, product pitches, buzzword-heavy takes
@@ -152,8 +152,8 @@ Automating loan origination, customer servicing, collections, insurance distribu
 
 | Channel | Days | Frequency |
 |---|---|---|
-| Alltius Company Page | Tuesday + Thursday | 2x per week = 16 posts over 2 months |
-| Vibs Personal LinkedIn | Monday + Wednesday + Friday | 3x per week = 24 posts over 2 months |
+| Vibs Personal LinkedIn | Tuesday + Thursday | 2x per week = 16 posts over 2 months |
+| Alltius Company Page | Wednesday | 1x per week = 8 posts over 2 months |
 
 ---
 
@@ -166,17 +166,17 @@ Automating loan origination, customer servicing, collections, insurance distribu
 
 ### WEEK 1
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Contrarian take
 Topic: "Everyone is talking about AI replacing jobs in financial services.
 CFOs are asking a completely different question."
 Hook: Start with the question CFOs actually ask in private
 Angle: The real question is not "will AI replace my team" —
-       it's "which workflows should never have had humans in the first place"
+       it is "which workflows should never have had humans in the first place"
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
 Post type: Company belief statement
 Topic: What Alltius stands for — AI that executes, not just answers
@@ -184,24 +184,7 @@ Hook: "Most AI tools end a conversation. Ours ends a workflow."
 Format: Short punchy statement post with 3 specific examples of what "executing" means
 ```
 
-**Vibs — Wednesday**
-```
-Post type: Academic bridge
-Topic: What teaching NLP at UC Irvine shows me about how companies
-       misunderstand language models
-Hook: "My students ask better AI questions than most enterprise buyers. Here's why."
-Angle: The gap between what LLMs can do and what businesses think they can do
-```
-
-**Alltius — Thursday**
-```
-Post type: Industry insight
-Topic: "65% of insurance contact center volume is queries that
-        should never reach a human agent"
-Format: Stat + 3 reasons why + what it costs
-```
-
-**Vibs — Friday**
+**Vibs — Thursday**
 ```
 Post type: Personal credibility
 Topic: IIT Kanpur to Wharton to CMU to UCI to building Alltius —
@@ -214,41 +197,24 @@ Hook: "I have spent 25 years studying how AI breaks.
 
 ### WEEK 2
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
-Post type: Founder observation
-Topic: "The $300B BPO industry is not being disrupted by AI.
-        It is being replaced by something entirely different."
-Angle: BPO was always a workaround — AI is not replacing BPO,
-       it is eliminating the problem BPO was solving
-```
-
-**Alltius — Tuesday**
-```
-Post type: Client result (anonymized)
-Topic: How a leading insurance marketplace reduced handle time by 88%
-Format: Problem, what they tried before, what changed, the number
-Do not name client — "a leading US insurance marketplace"
+Post type: Academic bridge
+Topic: What teaching NLP at UC Irvine shows me about how companies
+       misunderstand language models
+Hook: "My students ask better AI questions than most enterprise buyers. Here is why."
+Angle: The gap between what LLMs can do and what businesses think they can do
 ```
 
-**Vibs — Wednesday**
-```
-Post type: NLP teaching insight
-Topic: "In my NLP class at UCI, I show students how financial
-        documents break most language models. Here is what I show them."
-Angle: Regulatory language, compliance disclaimers, legacy terminology —
-       why financial services NLP is uniquely hard
-```
-
-**Alltius — Thursday**
+**Alltius — Wednesday**
 ```
 Post type: Industry insight
-Topic: "Loan origination has 47 manual touchpoints on average.
-        Here is which ones should never have been manual."
-Format: Short list with explanation — educational not promotional
+Topic: "65% of insurance contact center volume is queries that
+        should never reach a human agent"
+Format: Stat + 3 reasons why + what it costs
 ```
 
-**Vibs — Friday**
+**Vibs — Thursday**
 ```
 Post type: Contrarian
 Topic: "AI hallucinations in financial services are not a model problem.
@@ -261,7 +227,7 @@ Angle: Why throwing a better LLM at financial services AI does not work —
 
 ### WEEK 3
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Buyer education
 Topic: "4 questions every CFO should ask before signing any AI contract"
@@ -270,7 +236,7 @@ Questions should be ones where Alltius scores well —
 but do not mention Alltius
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
 Post type: Team credibility
 Topic: Alltius is built by people who taught AI —
@@ -278,7 +244,7 @@ Topic: Alltius is built by people who taught AI —
 Format: Short team story — academic pedigree meets applied product
 ```
 
-**Vibs — Wednesday**
+**Vibs — Thursday**
 ```
 Post type: Founder observation
 Topic: "The biggest mistake companies make when deploying AI
@@ -286,28 +252,11 @@ Topic: "The biggest mistake companies make when deploying AI
 Angle: Specific, tactical, based on real deployments
 ```
 
-**Alltius — Thursday**
-```
-Post type: Product education
-Topic: What it actually means for an AI agent to "execute" a transaction
-Format: Walk through one real workflow — e.g. loan pre-approval —
-        step by step, showing where AI acts vs where human confirms
-```
-
-**Vibs — Friday**
-```
-Post type: Academic bridge
-Topic: "My research on generative AI adoption shows a pattern
-        companies keep repeating. Here is what the data says."
-Angle: Reference academic research without being dry —
-       translate one finding into a practical insight for operators
-```
-
 ---
 
 ### WEEK 4
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Market thesis
 Topic: "The next 18 months will restructure financial services operations
@@ -315,31 +264,14 @@ Topic: "The next 18 months will restructure financial services operations
 Format: 3–4 bold predictions, each with a reason
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
 Post type: Client result (anonymized)
 Topic: How a digital lender cut month-end processing from 12 days to 3
 Format: Before and after — specific numbers, real workflow
 ```
 
-**Vibs — Wednesday**
-```
-Post type: Pattern interrupt
-Topic: "Everyone is building AI for the customer. Nobody is building it
-        for the person who has to manage the outcome of the conversation."
-Angle: The back-office reality after a customer interaction —
-       the manual work that still happens after the AI chat ends
-```
-
-**Alltius — Thursday**
-```
-Post type: Shareable insight
-Topic: "5 back-office workflows in financial services that
-        look like people problems — but are not"
-Format: Short numbered list — high save rate format
-```
-
-**Vibs — Friday**
+**Vibs — Thursday**
 ```
 Post type: Reflection
 Topic: "Month 1 of posting seriously on LinkedIn.
@@ -361,7 +293,7 @@ into broader back-office automation — without naming the merger explicitly.
 
 ### WEEK 5
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Expansion signal (subtle)
 Topic: "Financial services taught us the hardest version of back-office AI.
@@ -371,7 +303,7 @@ Angle: Start broadening the conversation — compliance, manual workflows,
 NOTE: This is the first post that hints at expansion — keep it subtle
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
 Post type: Case story
 Topic: How Assurance IQ uses Alltius for insurance distribution
@@ -379,24 +311,7 @@ Format: Full story — the problem, the solution, the result
 This is the one named client — use it here for maximum credibility
 ```
 
-**Vibs — Wednesday**
-```
-Post type: NLP teaching
-Topic: "I assigned my UCI students to audit a financial services AI product.
-        Here is what they found."
-Angle: Real findings, anonymized — builds academic credibility and product insight simultaneously
-```
-
-**Alltius — Thursday**
-```
-Post type: Thought leadership
-Topic: "The CFO Podcast, The Modern CFO, CFO Thought Leader —
-        here is what every guest says about back-office AI.
-        Here is what they are not saying."
-Format: Gap analysis — the missing conversation
-```
-
-**Vibs — Friday**
+**Vibs — Thursday**
 ```
 Post type: Contrarian
 Topic: "Goldman Sachs needed Anthropic on-site for 6 months to automate 2 workflows.
@@ -409,34 +324,16 @@ Angle: Honest take on the speed-to-value problem —
 
 ### WEEK 6
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
-Post type: Buyer education
-Topic: "Before you sign an AI contract, ask the vendor to show you
-        what happens when the AI is wrong. Most cannot answer this."
-Angle: Frames Alltius's symbolic AI architecture as the answer —
-       without naming it as a pitch
-```
-
-**Alltius — Tuesday**
-```
-Post type: Product education
-Topic: What the Alltius ACT Multi-Agents Library actually does —
-       25 pretrained agents explained in plain English
-Format: Walk through 3 specific agents with real examples
+Post type: NLP teaching
+Topic: "I assigned my UCI students to audit a financial services AI product.
+        Here is what they found."
+Angle: Real findings, anonymized — builds academic credibility
+       and product insight simultaneously
 ```
 
-**Vibs — Wednesday**
-```
-Post type: Expansion signal (stronger)
-Topic: "The back-office automation problem in financial services is a
-        subset of a much larger problem. Here is what I mean."
-Angle: Start bridging to broader operations — HR, shared services,
-       multi-department workflows
-NOTE: This is Month 2 Week 6 — second expansion signal, slightly more explicit
-```
-
-**Alltius — Thursday**
+**Alltius — Wednesday**
 ```
 Post type: Industry analysis
 Topic: LinkedIn poll — "What is your biggest back-office challenge right now?"
@@ -444,20 +341,21 @@ Options: Claims processing / Loan origination / Customer servicing / Collections
 Follow up next week with results post
 ```
 
-**Vibs — Friday**
+**Vibs — Thursday**
 ```
-Post type: Personal credibility
-Topic: "What my Wharton PhD in Operations and Information Management
-        taught me that an MBA never would have"
-Angle: Deep systems thinking applied to AI deployment —
-       why operations research matters for building AI products that actually work
+Post type: Expansion signal (stronger)
+Topic: "The back-office automation problem in financial services is a
+        subset of a much larger problem. Here is what I mean."
+Angle: Start bridging to broader operations — HR, shared services,
+       multi-department workflows
+NOTE: Second expansion signal — slightly more explicit than Week 5
 ```
 
 ---
 
 ### WEEK 7
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Poll results + insight
 Topic: Follow up on Alltius poll — what the results reveal about
@@ -465,60 +363,40 @@ Topic: Follow up on Alltius poll — what the results reveal about
 Format: Results + Vibs's interpretation — 2–3 insights from the data
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
-Post type: Voice AI launch content
-Topic: What Alltius Voice AI actually does —
-       not the press release version, the real version
-Format: Walk through one real phone call workflow —
-        what the AI says, how it handles objections, what it escalates
+Post type: Client result
+Topic: Anonymized case story — banking or lending vertical
+Format: Problem, previous solution, Alltius outcome, specific metric
 ```
 
-**Vibs — Wednesday**
+**Vibs — Thursday**
 ```
 Post type: Merger signal (subtle)
 Topic: "The companies solving back-office problems in 2026 are not
         building point solutions. They are building systems."
 Angle: The future is integrated — AI across the entire back-office stack,
        not one department at a time
-NOTE: This plants the seed for the Alltius + Neoflo merger story
-```
-
-**Alltius — Thursday**
-```
-Post type: Client result
-Topic: Third anonymized case story — focus on a different vertical
-       (banking or lending, not insurance)
-Format: Problem, previous solution, Alltius outcome, specific metric
-```
-
-**Vibs — Friday**
-```
-Post type: Honest take
-Topic: "The back-office is where AI projects go to die.
-        Here is why — and what actually works."
-Angle: Direct, credible, based on real deployments —
-       the 3 reasons most AI back-office projects fail
+NOTE: Plants the seed for the Alltius + Neoflo merger story
 ```
 
 ---
 
 ### WEEK 8 — PRE-MERGER WEEK
 
-**Vibs — Monday**
+**Vibs — Tuesday**
 ```
 Post type: Vision post
 Topic: "What financial services operations looks like in 3 years —
         a prediction from someone building it"
 Angle: Bold, specific predictions — sets up Alltius as the company
        building toward this vision
-NOTE: This is the last week before merger announcement territory —
-      make this one count
+NOTE: Last week before merger announcement — make this one count
 ```
 
-**Alltius — Tuesday**
+**Alltius — Wednesday**
 ```
-Post type: Company milestone
+Post type: Company milestone + subtle hint
 Topic: "Two months of building in public. Here is what we have learned
         about what US financial services teams actually need."
 Format: Honest reflection — what content resonated,
@@ -527,37 +405,14 @@ Subtle hint: "We are expanding what we think is possible" —
              no details, just a signal
 ```
 
-**Vibs — Wednesday**
+**Vibs — Thursday**
 ```
-Post type: Merger signal (explicit hint, no details)
+Post type: Merger signal (clearest hint, still no announcement)
 Topic: "The next chapter of back-office AI is not about doing one thing
         better. It is about doing everything together."
 Angle: The integrated back-office vision —
        AI that handles finance ops, HR ops, customer ops, all connected
-NOTE: This is the clearest pre-merger signal — still no announcement,
-      just vision
-```
-
-**Alltius — Thursday**
-```
-Post type: Direct CTA (first soft CTA of the 2 months)
-Topic: "We are working with 3 new financial services teams this quarter.
-        Here is what we look for in a client fit."
-Format: Specific criteria — company size, workflow type, readiness —
-        filters for right-fit leads
-CTA: "If this sounds like your team, DM me."
-```
-
-**Vibs — Friday**
-```
-Post type: Reflection + forward look
-Topic: "Two months of showing up consistently on LinkedIn.
-        Here is what changed — and what is coming."
-Format: Honest, grateful, specific —
-        what conversations happened, what surprised him,
-        a hint that something bigger is coming in the next chapter
-NOTE: This is the last post before the merger announcement period —
-      end it with forward momentum
+NOTE: Clearest pre-merger signal — end with forward momentum
 ```
 
 ---
